@@ -1,0 +1,12 @@
+{
+  "name": "metalsmith-prism-lines",
+  "version": "0.1",
+  "description": "Syntax highlighting for Metalsmith HTML markup using Prism.js and the line-numbers plugin",
+  "main": "lib/index.js",
+  "dependencies": {
+    "domino": "^1.0.25",
+    "metalsmith": "^2.2.0",
+    "prismjs": "^1.5.1",
+    "vm": "^0.1.0"
+  }
+}
