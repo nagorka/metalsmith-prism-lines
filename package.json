@@ -1,8 +1,10 @@
 {
   "name": "metalsmith-prism-lines",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Syntax highlighting for Metalsmith HTML markup using Prism.js and the line-numbers plugin",
   "main": "lib/index.js",
+  "license": "MIT",
+  "repository": "git://github.com/nagorka/metalsmith-prism-lines.git",
   "dependencies": {
     "domino": "^1.0.25",
     "metalsmith": "^2.2.0",
